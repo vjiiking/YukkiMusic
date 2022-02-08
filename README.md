@@ -2,9 +2,9 @@
     ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ+ᴠɪᴅᴇᴏ ʙᴏᴛ ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ ᴜsɪɴɢ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴘʏ-ᴛɢᴄᴀʟʟs 
 </h4>
 <p align="center">
-    <a href="https://t.me/Heromusics_bot"> ʀᴇᴀᴅʏ-ᴛᴏ-ᴜsᴇ ʙᴏᴛ </a> •
-    <a href="https://t.me/Modmenumaking"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ </a> •
-    <a href="https://t.me/Yaaro_ki_yaarii"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ </a> 
+    <a href="https://t.me/QueenAlishaRobot"> ʀᴇᴀᴅʏ-ᴛᴏ-ᴜsᴇ ʙᴏᴛ </a> •
+    <a href="https://t.me/Pubglovers_Shayri_lovers"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ </a> •
+    <a href="https://t.me/AlishaSupport"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ </a> 
 </p>
     
 # ʜᴇʀᴏ ᴍᴜsɪᴄs ʙᴏᴛ
@@ -50,7 +50,7 @@
 > ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ᴀʀᴇ ɴᴏᴛ ᴍᴀɴᴅᴀᴛᴏʀʏ, ʏᴏᴜ ᴄᴀɴ ʟᴇᴀᴠᴇ ᴛʜᴇᴍ ʙʟᴀɴᴋ ᴛᴏᴏ. 
     
 <h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴜᴋᴋɪ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FShailendra34%2FHero-OP"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FYukkiMusic%2FCandyMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
     
 </details>
 
