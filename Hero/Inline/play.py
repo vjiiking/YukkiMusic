@@ -38,7 +38,7 @@ def url_markup(videoid, duration, user_id, query, query_type):
 
                 text="❰𝙂𝙧𝙤𝙪𝙥❱",
 
-                url=f"https://t.me/AlishaSupport",
+                url=f"https://t.me/terayaarhoomai",
 
             ),
 
@@ -46,7 +46,7 @@ def url_markup(videoid, duration, user_id, query, query_type):
 
                 text="❰𝙊𝙬𝙣𝙚𝙧❱",
 
-                url=f"https://t.me/Itz_Venom_xD",
+                url=f"https://t.me/cute_boy701",
 
             ),
 
@@ -302,11 +302,11 @@ def secondary_markup(videoid, user_id):
 
             InlineKeyboardButton(
 
-                text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/Itz_Venom_xD"
+                text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/cute_boy701"
 
             ),
 
-            InlineKeyboardButton(text="❰𝙂𝙧𝙤𝙪𝙥❱", url=f"https://t.me/AlishaSupport"),
+            InlineKeyboardButton(text="❰𝙂𝙧𝙤𝙪𝙥❱", url=f"https://t.me/terayaarhoomai"),
 
         ],
 
@@ -342,11 +342,11 @@ def primary_markup(videoid, user_id, current_time, total_time):
 
             InlineKeyboardButton(
 
-                text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/Itz_Venom_xD"
+                text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/cute_boy701"
 
             ),
 
-            InlineKeyboardButton(text="❰𝙂𝙧𝙤𝙪𝙥❱", url=f"https://t.me/AlishaSupport"),
+            InlineKeyboardButton(text="❰𝙂𝙧𝙤𝙪𝙥❱", url=f"https://t.me/terayaarhoomai"),
 
         ],
 
@@ -362,11 +362,11 @@ def timer_markup(videoid, user_id, current_time, total_time):
 
             InlineKeyboardButton(
 
-                text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/Itz_Venom_xD"
+                text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/terayaarhoomai"
 
             ),
 
-            InlineKeyboardButton(text="❰𝙂𝙧𝙤𝙪𝙥❱", url=f"https://t.me/AlishaSupport"),
+            InlineKeyboardButton(text="❰𝙂𝙧𝙤𝙪𝙥❱", url=f"https://t.me/terayaarhoomai"),
 
         ],
 
