@@ -36,17 +36,17 @@ def url_markup(videoid, duration, user_id, query, query_type):
 
             InlineKeyboardButton(
 
-                text="❰𝙂𝙧𝙤𝙪𝙥❱",
+                text="𓆩👑❛ 𝗩ᴊɪɪ",
 
-                url=f"https://t.me/terayaarhoomai",
+                url=f"https://t.me/vjii_world",
 
             ),
 
             InlineKeyboardButton(
 
-                text="❰𝙊𝙬𝙣𝙚𝙧❱",
+                text="𝐖ᴏʀʟᴅ᭄ ❜👑𓆪⁩",
 
-                url=f"https://t.me/cute_boy701",
+                url=f"https://t.me/vjii_world",
 
             ),
 
